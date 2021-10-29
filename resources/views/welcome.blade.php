@@ -14,7 +14,7 @@
     <body class="antialiased">
         
         <div id="app">
-            <example-componen>
+            <example-component>
                 hello
         </div>
         <script src="{{ asset('js/app.js') }}" defer></script>
